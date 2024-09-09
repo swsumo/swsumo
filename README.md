@@ -9,7 +9,7 @@ On the frontend development side, I have experience crafting responsive and inte
 
 **Skillset:**
 - **Programming Languages:** Python, Java, C, C++
-- **Computer Vision & Machine Learning:** OpenCV, YOLO (v5/v8)
+- **Computer Vision & Machine Learning:** OpenCV, YOLO (v5/v8),python-lib as Pytorch, Scikit-learn, Keras, Pandas, Numpy etc 
 - **Frontend Development:** HTML, CSS, Tailwind CSS, JavaScript, Angular
 
 **🌱 I’m currently learning:** Still diving deeper into AI/ML, Data Science, and frontend development. There's always more to learn, and I’m excited to keep growing in these areas!
