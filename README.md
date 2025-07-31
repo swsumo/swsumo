@@ -1,5 +1,5 @@
 
-**👋 Hello! I'm a 3rd-year Data Science student at Manipal University Jaipur.**
+**👋 Hello! I'm a 4th-year Data Science student at Manipal University Jaipur.**
 
 I'm deeply passionate about Data Science and AI/ML, and I'm dedicated to honing my skills in these areas. My tech journey began with mastering programming languages like Python, Java, C, and C++, which provided a strong foundation for my current focus on machine learning and computer vision.
 
